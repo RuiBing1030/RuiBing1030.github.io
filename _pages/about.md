@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-邴睿，工学博士，副教授，硕士生导师。2024年12月在中国矿业大学获得计算机应用技术博士学位。主要研究方向为时序预测、图数据挖掘与图机器学习。主持国家自然科学基金项目1项、甘肃省科技厅青年科技基金项目1项，参与国家自然科学基金项目2项，先后在IEEE Transactions on Big Data、IEEE Transactions on Computational Social Systems、Artificial Intelligence Review、Knowledge-Based Systems、软件学报、电子学报等权威期刊上发表学术论文10余篇，并担任IEEE Transactions on Knowledge and Data Engineering、AAAI Conference on Artificial Intelligence、ACM International Conference on Web Search and Data Mining等国际期刊及会议审稿人。
+邴睿，工学博士，副教授，硕士生导师。2024年12月在中国矿业大学获得计算机应用技术博士学位。主要研究方向为时序预测、图数据挖掘与图机器学习、智慧教育。目前主持国家自然科学基金项目1项、甘肃省科技厅青年科技基金项目1项，参与国家自然科学基金项目2项，先后在IEEE Transactions on Big Data、IEEE Transactions on Computational Social Systems、Artificial Intelligence Review、Knowledge-Based Systems、软件学报、电子学报等权威期刊上发表学术论文10余篇，并担任IEEE Transactions on Knowledge and Data Engineering、AAAI Conference on Artificial Intelligence、ACM International Conference on Web Search and Data Mining等国际期刊及会议审稿人。
 
 
 近期动态
@@ -18,7 +18,9 @@ redirect_from:
 招生计划
 ======
 1.2027年度计划招收硕士研究生4人。
+
 2.欢迎拥有良好英语读写基础、较强Python编程能力的学生联系我！
+
 3.如有意向，可将个人简历发送至：bingrui@nwnu.edu.cn
 
 
