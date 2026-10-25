@@ -9,39 +9,60 @@ redirect_from:
 
 邴睿，工学博士，副教授，硕士生导师。2024年12月在中国矿业大学获得计算机应用技术博士学位。主要研究方向为时序预测、图数据挖掘与图机器学习。主持国家自然科学基金项目1项、甘肃省科技厅青年科技基金项目1项，参与国家自然科学基金项目2项，先后在IEEE Transactions on Big Data、IEEE Transactions on Computational Social Systems、Artificial Intelligence Review、Knowledge-Based Systems、软件学报、电子学报等权威期刊上发表学术论文10余篇，并担任IEEE Transactions on Knowledge and Data Engineering、AAAI Conference on Artificial Intelligence、ACM International Conference on Web Search and Data Mining等国际期刊及会议审稿人。
 
+
 近期动态
 ======
-2026.08.26：获批国家自然科学基金地区项目
+2026.08.26：获批国家自然科学基金地区项目，面向西部地区学习者作答数据稀疏性与不确定性的高鲁棒知识追踪方法研究，编号：62667009
 
-Getting started
+
+招生计划
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1.2027年度计划招收硕士研究生4人。
+2.欢迎拥有良好英语读写基础、较强Python编程能力的学生联系我！
+3.如有意向，可将个人简历发送至：bingrui@nwnu.edu.cn
 
-Site-wide configuration
+
+论文发表
+======
+
+
+期刊论文
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. Bing R, Yuan G, Zhang Y, et al. An Efficient Multi-View Heterogeneous Hypergraph Convolutional Network for Heterogeneous Information Network Representation Learning[J]. IEEE Transactions on Big Data, 2024, (01): 1-14. （SCI，JCR Q1，IF=7.5，CCF推荐C类期刊，中科院二区）
 
-Create content & metadata
+2. Bing R, Yuan G, Zhu M, et al. Heterogeneous Graph Neural Networks Analysis: A Survey of Techniques, Evaluations and Applications[J]. Artificial Intelligence Review, 2023, 56(8): 8003-8042. （SCI，JCR Q1，IF=10.7，中科院一区Top）
+
+3. Bing R, Yuan G, Zhang Y, et al. Automated message selection for robust Heterogeneous Graph Contrastive Learning[J]. Knowledge-Based Systems, 2025, 307: 112739.（SCI，JCR Q1，IF=7.2，CCF推荐C类期刊，中科院一区Top）
+
+4. 邴睿, 袁冠, 孟凡荣, 等. 多视图对比增强的异质图结构学习方法[J]. 软件学报, 2023, 34(10): 4477-4500. （EI，IF=3.12，CCF推荐中文A类期刊）
+
+5. Liu C, Bing R, Xi X, et al. Heterogeneous Graph Structure Learning for Experts Selection in Academic Evaluation[J]. IEEE Transactions on Computational Social Systems, 2025, 12(6): 4677-4688. （SCI，JCR Q2，IF=4.9，中科院三区）
+
+6. 袁冠, 邴睿, 刘肖, 等. 基于时空图神经网络的手势识别[J]. 电子学报, 2022, 50(4): 921-931. （EI，CCF推荐中文A类期刊）
+
+7. 马慧芳, 邴睿, 赵卫中, 等. 面向距离查询的属性加权图聚集算法[J]. 电子学报, 2021, 49(1): 132-139 （EI，CCF推荐中文A类期刊）
+
+
+会议论文
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. Bing R, Yuan G, Cai Z, et al. Automated Modeling of Influence Diversity with Graph Convolutional Network for Social Recommendation[C]//Proceedings of the Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data. Singapore: Springer Nature Singapore, 2024: 33-49. （EI，CCF推荐C类会议）
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+科研项目
+======
+1. 面向西部地区学习者作答数据稀疏性与不确定性的高鲁棒知识追踪方法研究. 国家自然科学基金, 编号：62667009, 主持；
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+2. 基于异质图简化的大规模Android恶意程序检测策略研究. 甘肃省青年科技基金, 编号：26JRRA495, 主持；
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+3. 在线学习中动态异质行为驱动的学习者画像与资源推荐研究. 国家自然科学基金, 编号：62567007, 参与；
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+4. 面向弱标注复杂遥感影像的语义分割方法研究. 国家自然科学基金, 编号：62566059, 参与。
+
+
+学术活动
+======
+暂无
+
+
+**其他**
+
